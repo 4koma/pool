@@ -3,4 +3,5 @@
 "description": "Bringing Smiles to the Cardano Community",
 "ticker": "4KOMA",
 "homepage": "https://twitter.com/4KOMA_StakePool"
+"extended": "https://raw.githubusercontent.com/4koma/pool/main/extendedMeta.json"
 }
